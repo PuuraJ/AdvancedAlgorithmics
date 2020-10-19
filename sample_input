@@ -1,0 +1,180 @@
+line 652 396 742 479 1 blue
+line 652 396 502 536 1 blue
+line 652 396 462 411 1 blue
+line 652 396 896 298 1 blue
+line 652 396 617 198 1 blue
+line 652 396 756 212 1 blue
+line 652 396 539 372 1 blue
+line 652 396 660 603 1 blue
+line 652 396 769 267 1 blue
+line 652 396 478 222 1 blue
+line 652 396 390 272 1 blue
+line 652 396 616 548 1 blue
+line 652 396 950 450 1 blue
+line 652 396 753 592 1 blue
+line 652 396 921 390 1 blue
+line 652 396 402 536 1 blue
+line 742 479 502 536 1 blue
+line 742 479 462 411 1 blue
+line 742 479 539 372 1 blue
+line 742 479 616 548 1 blue
+line 742 479 950 450 1 blue
+line 742 479 753 592 1 blue
+line 742 479 921 390 1 blue
+line 742 479 764 691 1 blue
+line 502 536 462 411 1 blue
+line 502 536 539 372 1 blue
+line 502 536 660 603 1 blue
+line 502 536 372 671 1 blue
+line 502 536 616 548 1 blue
+line 502 536 260 626 1 blue
+line 502 536 315 605 1 blue
+line 502 536 542 744 1 blue
+line 462 411 539 372 1 blue
+line 462 411 390 272 1 blue
+line 462 411 616 548 1 blue
+line 896 298 756 212 1 blue
+line 896 298 769 267 1 blue
+line 617 198 756 212 1 blue
+line 617 198 769 267 1 blue
+line 617 198 739 40 1 blue
+line 756 212 739 40 1 blue
+line 660 603 764 691 1 blue
+line 660 603 542 744 1 blue
+line 660 603 495 729 1 blue
+line 372 671 495 729 1 blue
+line 616 548 495 729 1 blue
+line 615 893 542 744 1 blue
+line 615 893 495 729 1 blue
+line 763 821 542 744 1 blue
+line 763 821 495 729 1 blue
+line 701 867 542 744 1 blue
+line 701 867 495 729 1 blue
+line 753 592 495 729 1 blue
+line 451 893 542 744 1 blue
+line 451 893 495 729 1 blue
+line 279 843 542 744 1 blue
+line 279 843 495 729 1 blue
+line 222 756 84 582 1 blue
+line 222 756 260 626 1 blue
+line 222 756 351 862 1 blue
+line 222 756 542 744 1 blue
+line 222 756 495 729 1 blue
+line 127 469 84 582 1 blue
+line 127 469 260 626 1 blue
+line 127 469 402 536 1 blue
+line 84 582 402 536 1 blue
+line 496 950 351 862 1 blue
+line 496 950 495 729 1 blue
+line 260 626 495 729 1 blue
+line 315 605 402 536 1 blue
+line 315 605 495 729 1 blue
+line 351 862 542 744 1 blue
+line 351 862 495 729 1 blue
+line 764 691 542 744 1 blue
+line 764 691 495 729 1 blue
+line 402 536 542 744 1 blue
+line 402 536 495 729 1 blue
+line 542 744 495 729 1 blue
+circle 652 396 15 black
+circle 742 479 15 black
+circle 502 536 15 black
+circle 462 411 15 black
+circle 896 298 15 black
+circle 617 198 15 black
+circle 756 212 15 black
+circle 539 372 15 black
+circle 660 603 15 black
+circle 372 671 15 black
+circle 769 267 15 black
+circle 478 222 15 black
+circle 390 272 15 black
+circle 616 548 15 black
+circle 615 893 15 black
+circle 763 821 15 black
+circle 739 40 15 black
+circle 950 450 15 black
+circle 701 867 15 black
+circle 753 592 15 black
+circle 451 893 15 black
+circle 921 390 15 black
+circle 279 843 15 black
+circle 222 756 15 black
+circle 127 469 15 black
+circle 84 582 15 black
+circle 496 950 15 black
+circle 260 626 15 black
+circle 315 605 15 black
+circle 351 862 15 black
+circle 764 691 15 black
+circle 402 536 15 black
+circle 542 744 15 black
+circle 495 729 15 black
+text "0" 644 404 18 orange
+text "1" 734 487 18 orange
+text "2" 494 544 18 orange
+text "3" 454 419 18 orange
+text "4" 888 306 18 orange
+text "5" 609 206 18 orange
+text "6" 748 220 18 orange
+text "7" 531 380 18 orange
+text "8" 652 611 18 orange
+text "9" 364 679 18 orange
+text "10" 761 275 18 orange
+text "11" 470 230 18 orange
+text "12" 382 280 18 orange
+text "13" 608 556 18 orange
+text "14" 607 901 18 orange
+text "15" 755 829 18 orange
+text "16" 731 48 18 orange
+text "17" 942 458 18 orange
+text "18" 693 875 18 orange
+text "19" 745 600 18 orange
+text "20" 443 901 18 orange
+text "21" 913 398 18 orange
+text "22" 271 851 18 orange
+text "23" 214 764 18 orange
+text "24" 119 477 18 orange
+text "25" 76 590 18 orange
+text "26" 488 958 18 orange
+text "27" 252 634 18 orange
+text "28" 307 613 18 orange
+text "29" 343 870 18 orange
+text "30" 756 699 18 orange
+text "31" 394 544 18 orange
+text "32" 534 752 18 orange
+text "33" 487 737 18 orange
+text "0" 420 544 18 darkred
+text "1" 496 230 18 darkred
+text "2" 757 48 18 darkred
+text "3" 333 613 18 darkred
+text "4" 635 206 18 darkred
+text "5" 670 404 18 darkred
+text "6" 782 699 18 darkred
+text "7" 278 634 18 darkred
+text "8" 469 901 18 darkred
+text "9" 634 556 18 darkred
+text "10" 774 220 18 darkred
+text "11" 145 477 18 darkred
+text "12" 390 679 18 darkred
+text "13" 514 958 18 darkred
+text "14" 513 737 18 darkred
+text "15" 939 398 18 darkred
+text "16" 369 870 18 darkred
+text "17" 297 851 18 darkred
+text "18" 719 875 18 darkred
+text "19" 678 611 18 darkred
+text "20" 557 380 18 darkred
+text "21" 633 901 18 darkred
+text "22" 102 590 18 darkred
+text "23" 914 306 18 darkred
+text "24" 787 275 18 darkred
+text "25" 968 458 18 darkred
+text "26" 240 764 18 darkred
+text "27" 520 544 18 darkred
+text "28" 781 829 18 darkred
+text "29" 771 600 18 darkred
+text "30" 480 419 18 darkred
+text "31" 408 280 18 darkred
+text "32" 760 487 18 darkred
+text "33" 560 752 18 darkred
