@@ -1,0 +1,20 @@
+circle 500 920 8 blue
+circle 500 80 8 red
+circle 100 250 75 lightgreen
+circle 300 250 75 lightgreen
+circle 500 250 75 lightgreen
+circle 700 250 75 lightgreen
+circle 900 250 75 lightgreen
+rectangle 100 400 900 500 lightblue
+rectangle 0 400 100 500 lightgreen
+rectangle 900 400 1000 500 lightgreen
+rectangle 0 600 400 650 pink
+rectangle 600 600 1000 650 pink
+rectangle 200 700 800 750 pink
+line 200 100 800 100 2 pink
+line 200 100 200 0 2 pink
+line 1000 1000 700 800 7 pink
+line 750 950 600 700 7 pink
+
+text "A" 510 930 20 black
+text "B" 510 80 20 black
